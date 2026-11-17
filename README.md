@@ -56,9 +56,7 @@ The activity was consistent with the controlled lab test. No malicious activity 
 
 See the screenshots included in this repository for the event details and audit configuration.
 
-## Detailed Report
 
-Read [`incident-report.md`](incident-report.md) for the complete investigation report.
 
 ---
 
